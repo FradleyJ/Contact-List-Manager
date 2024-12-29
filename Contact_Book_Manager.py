@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 25 23:45:45 2024
 
-@author: marph
+@author: Fradley Joseph
 """
 import sys
 print("Welcome to Contact List Manager!\nOptions:\n1. View Contacts\n2. Add Contact\n3. Delete Contact\n4. Exit")
